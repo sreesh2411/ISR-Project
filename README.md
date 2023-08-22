@@ -14,8 +14,8 @@ User-friendly web-based interface.
 
 This repository contains the following directories:
 
+* Test_Data: contains smaller chunk of data used for inital testing
 * data: contains the datasets used for training and testing the models. TREC 2022 dataset
-* Test Data: contains smaller chunk of data used for inital testing
 
 ## Approach
 
