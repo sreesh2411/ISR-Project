@@ -1,0 +1,29 @@
+Question:  How much rain is measured in Pensacola, Florida as of Tuesday?
+Answer:  2).
+True Answers: ['12.71 inches']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  Which areas are expecting heavy rain along I-10 highway from Louisiana to Florida,
+Answer:  Gautier and Pascagoula, Mississippi
+True Answers: [' Gautier and Pascagoula, Mississippi', 'Gautier', 'Pascagoula, Mississippi']
+EM: 1 	 F1: 0.6666666666666666
+Precision: 1.0 	 Recall: 1.0
+Question:  What is the contact number to report downed power lines?
+Answer:  1-800-GUPOWER
+True Answers: ['1-800-GUPOWER', '1-800-487-6937', '1-800-GUPOWER (1-800-487-6937)']
+EM: 1 	 F1: 0.6666666666666666
+Precision: 1.0 	 Recall: 1.0
+Question:  How many meal red cross has served?
+Answer:  622,000
+True Answers: ['622,000']
+EM: 1 	 F1: 1.0
+Precision: 1.0 	 Recall: 1.0
+Question:  What is the contact number of Alabama Power?
+Answer:  888-2726
+True Answers: ['1-800-888-2726']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Average Exact Match: 60.0 %
+Average F1 score: 0.4666666666666666
+Average Recall: 60.0 %
+Average Precision: 60.0 %

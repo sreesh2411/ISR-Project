@@ -1,0 +1,69 @@
+Question:  What was the name of the hurricane that made landfall in Alabama and Mississippi on September 16, 2020?
+Answer:  Ivan
+True Answers: ['Hurricane Sally']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What was the maximum sustained wind speed of Hurricane Sally when it made landfall?
+Answer:  165kph
+True Answers: ['105 mph', '100 mph', '40 mph', '90 mph']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  Where did Hurricane Sally make landfall in Alabama?
+Answer:  Gulf Shores
+True Answers: ['Gulf Shores']
+EM: 1 	 F1: 1.0
+Precision: 1.0 	 Recall: 1.0
+Question:  Where did Hurricane Sally make landfall in Mississippi?
+Answer:  Gulf Shores, Ala.
+True Answers: ['Bay St. Louis']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What was the total damage caused by Hurricane Sally?
+Answer:  (iii)
+True Answers: ['More than $3 billion']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  How many deaths were caused by Hurricane Sally?
+Answer:  1).
+True Answers: ['At least 3']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What were the main impacts of Hurricane Sally?
+Answer:  (iii)
+True Answers: ['Flooding', 'Power outages', 'Structural damage']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What was the weather like in the days leading up to Hurricane Sally?
+Answer:  a tropical s
+True Answers: ['Warm and humid']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What was the weather like in the days after Hurricane Sally?
+Answer:  a tropical s
+True Answers: ['Cool and rainy']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What were the evacuation orders for Hurricane Sally?
+Answer:  a list of evacuation orders in Louisiana, Mississippi
+True Answers: ['Mandatory evacuations for some areas']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What were the shelter options for Hurricane Sally?
+Answer:  Helpful
+True Answers: ['Public shelters', 'Private shelters', 'Staying with friends or family']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What were the transportation options for Hurricane Sally?
+Answer:  (iii)
+True Answers: ['Closed roads', 'Cancelled flights', 'Limited public transportation']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Question:  What were the communication options for Hurricane Sally?
+Answer:  Helpful
+True Answers: ['Cell phone service was spotty', 'Power outages affected landlines', 'Radios were a good source of information']
+EM: 0 	 F1: 0
+Precision: 0 	 Recall: 0
+Average Exact Match: 7.6923076923076925 %
+Average F1 score: 0.07692307692307693
+Average Recall: 7.6923076923076925 %
+Average Precision: 7.6923076923076925 %
