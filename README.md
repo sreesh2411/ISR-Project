@@ -33,6 +33,11 @@ We conducted experiments on T5, Open AI, and Roberta models for general and fact
 
 These results highlight the potential of T5 as the preferred model for general queries, while Open AI and Roberta can be used as alternative models. However, for fact-based queries, T5 proved to be the most effective model, followed by Open AI and Roberta. These results were obtained from our experimentation repository, which includes all the code, data, and results. For more details, please refer to our report website. To experience our demo version, please visit our demo website and demo repository.
 
+## Team Members
 
+Abhishek Maurya
+Bhavya Shah
+Yash Patel
+K. Sreesh Reddy
 
 
