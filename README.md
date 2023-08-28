@@ -35,9 +35,9 @@ These results highlight the potential of T5 as the preferred model for general q
 
 ## Team Members
 
-Abhishek Maurya
-Bhavya Shah
-Yash Patel
+Abhishek Maurya<br>
+Bhavya Shah<br>
+Yash Patel<br>
 K. Sreesh Reddy
 
 
